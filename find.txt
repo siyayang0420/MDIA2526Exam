@@ -1,0 +1,3 @@
+./htdocs/index.html
+./htdocs/bottom.html
+./htdocs/head.html
